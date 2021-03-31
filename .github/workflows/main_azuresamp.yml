@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'azuresamp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7430ea086fec40698fada3cc6c22b467 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9aa04fe7bfe14098940a375510a3031f }}
         package: .
